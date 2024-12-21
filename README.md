@@ -4,7 +4,7 @@ Lama Book Shop is a web application where users can view, add, update, and delet
 
 ## Features
 
-- View all books with details like title, description, price, and cover image.
+- View all books with details like title, description, price, and cover image
 - Add new books to the collection.
 - Update existing book information.
 - Delete books from the collection.
